@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "autor": "Sandra Camacho Rivera, Laura Aguiló Travé",
+    "titulo": "cadira EPS",
+    "srcimg": "https://raw.githubusercontent.com/sandracamachorivera/cadiraeps/main/corporativa.png",
+    "alt": "Isotip de cadira EPS",
+    "texto": "Creació d'una imatge corporativa per la marca cadira EPS",
+    "url": "https://sandracamachorivera.github.io/cadiraeps/"
+},
+{
+    "id": 2,
+    "autor": "Àgueda Camarasa i Aran Calvet",
+    "titulo": "Blockbusters",
+    "srcimg": "https://raw.githubusercontent.com/aguedacamarasa/blockbusters/main/IMG_1835.jpg",
+    "alt": "Escena de la pel·lícula lo imposible",
+    "texto": "Blockbusters és un petit espai digital per fer un recorregut en la història del cinema i veure les pel·lícules més taquilleres en els últims temps. En aquesta plataforma, els  usuaris podran trobar informació i altres continguts com imatges o enllaços a tràilers.",
+    "url": "https://aguedacamarasa.github.io/blockbusters/"
+}
+]
