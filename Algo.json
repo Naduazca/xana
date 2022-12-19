@@ -1,19 +1,100 @@
 [{
     "id": 1,
-    "autor": "Sandra Camacho Rivera, Laura Aguiló Travé",
-    "titulo": "cadira EPS",
-    "srcimg": "https://raw.githubusercontent.com/sandracamachorivera/cadiraeps/main/corporativa.png",
-    "alt": "Isotip de cadira EPS",
-    "texto": "Creació d'una imatge corporativa per la marca cadira EPS",
-    "url": "https://sandracamachorivera.github.io/cadiraeps/"
+    "autor": "Cristina Bossacoma",
+    "titulo": "2.5 anys",
+    "srcimg": "https://plus.unsplash.com/premium_photo-1661567408466-27899e8a4a2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmklQzMlQjFvcyUyMGp1Z2FuZG98ZW58MHx8MHx8&w=1000&q=80",
+    "alt": "Primer record de Cristina al pati",
+    "texto": "Jo jugant al pati de parbulari amb la meva amiga tirant pedres a altres nens",
+    "url": ""
 },
 {
     "id": 2,
-    "autor": "Àgueda Camarasa i Aran Calvet",
-    "titulo": "Blockbusters",
+    "autor": "Solanghi Balderrama",
+    "titulo": " 2.5 anys",
     "srcimg": "https://raw.githubusercontent.com/aguedacamarasa/blockbusters/main/IMG_1835.jpg",
-    "alt": "Escena de la pel·lícula lo imposible",
-    "texto": "Blockbusters és un petit espai digital per fer un recorregut en la història del cinema i veure les pel·lícules més taquilleres en els últims temps. En aquesta plataforma, els  usuaris podran trobar informació i altres continguts com imatges o enllaços a tràilers.",
-    "url": "https://aguedacamarasa.github.io/blockbusters/"
+    "alt": " ",
+    "texto": "Estava al pati menjant mango al sol amb el meu tio",
+    "url": ""
+},
+{
+    "id": 3,
+    "autor": "Nadia Diaz",
+    "titulo": "3 anys",
+    "srcimg": "https://plus.unsplash.com/premium_photo-1661567408466-27899e8a4a2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmklQzMlQjFvcyUyMGp1Z2FuZG98ZW58MHx8MHx8&w=1000&q=80",
+    "alt": "",
+    "texto": " Estava en rotllana amb els meus companys de classe mentre mirava la meva motxilla transparent del Mickey Mouse",
+    "url": ""
+},
+{
+    "id": 4,
+    "autor": "Oriol Larroya",
+    "titulo": "3 anys",
+    "srcimg": "https://plus.unsplash.com/premium_photo-1661567408466-27899e8a4a2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmklQzMlQjFvcyUyMGp1Z2FuZG98ZW58MHx8MHx8&w=1000&q=80",
+    "alt": "",
+    "texto": " Estava al menjador de la escola i me vaig tirar un pet tant fort que una professora em va fotre bronca.",
+    "url": ""
+},
+{
+    "id": 5,
+    "autor": "Laia Cossío",
+    "titulo": "3 anys",
+    "srcimg": "https://plus.unsplash.com/premium_photo-1661567408466-27899e8a4a2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmklQzMlQjFvcyUyMGp1Z2FuZG98ZW58MHx8MHx8&w=1000&q=80",
+    "alt": "",
+    "texto": " Jugant un joc amb la meva classe.",
+    "url": ""
+},
+{
+    "id": 6,
+    "autor": "Xavier de Haro",
+    "titulo": "3 anys",
+    "srcimg": "https://plus.unsplash.com/premium_photo-1661567408466-27899e8a4a2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmklQzMlQjFvcyUyMGp1Z2FuZG98ZW58MHx8MHx8&w=1000&q=80",
+    "alt": "",
+    "texto": " Estava a casa de la meva veïna (companya de classe també) i jugàvem a pegar-nos…",
+    "url": ""
+},
+{
+    "id": 7,
+    "autor": "Judith Farré",
+    "titulo": "3 anys",
+    "srcimg": "https://raw.githubusercontent.com/aguedacamarasa/blockbusters/main/IMG_1835.jpg",
+    "alt": "",
+    "texto": " La profe em va prendre una nina a classe i no me la va tornar :'c",
+    "url": ""
+},
+{
+    "id": 8,
+    "autor": "Javier Abella",
+    "titulo": "3 anys",
+    "srcimg": "https://plus.unsplash.com/premium_photo-1661567408466-27899e8a4a2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmklQzMlQjFvcyUyMGp1Z2FuZG98ZW58MHx8MHx8&w=1000&q=80",
+    "alt": "",
+    "texto": "Sortint del jardí d'infància abraçant a la meva mare",
+    "url": ""
+},
+{
+    "id": 9,
+    "autor": " Ziggy Wouters",
+    "titulo": "3 anys",
+    "srcimg": "https://plus.unsplash.com/premium_photo-1661567408466-27899e8a4a2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmklQzMlQjFvcyUyMGp1Z2FuZG98ZW58MHx8MHx8&w=1000&q=80",
+    "alt": "",
+    "texto": " El profe d’esquí fet-nos aprendre a esquiar amb un sol esquí.",
+    "url": ""
+},
+{
+    "id": 10,
+    "autor": "Biel Griñó",
+    "titulo": "3 anys",
+    "srcimg": "https://plus.unsplash.com/premium_photo-1661567408466-27899e8a4a2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmklQzMlQjFvcyUyMGp1Z2FuZG98ZW58MHx8MHx8&w=1000&q=80",
+    "alt": "",
+    "texto": " Estava jugant a la neu amb la meva germana i em va tirar una bola de neu a l'ull",
+    "url": ""
+},
+{
+    "id": 11,
+    "autor": "Maria Canela",
+    "titulo": "4 anys",
+    "srcimg": "https://plus.unsplash.com/premium_photo-1661567408466-27899e8a4a2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmklQzMlQjFvcyUyMGp1Z2FuZG98ZW58MHx8MHx8&w=1000&q=80",
+    "alt": "",
+    "texto": "Les dutxes amb el meu germa",
+    "url": ""
 }
 ]
